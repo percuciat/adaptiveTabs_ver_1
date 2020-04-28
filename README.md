@@ -8,4 +8,4 @@ just copy this source and customize for yourself some variables.
 
 ## Demo:
 
-[link](https://percuciat.adaptiveTabs_ver_1/github/) - tabs
+[link](https://percuciat.github.io/adaptiveTabs_ver_1/) - tabs
