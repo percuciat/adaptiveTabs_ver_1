@@ -2,8 +2,10 @@
 
 This is first version popular type of tabs for web-sites.
 
-How it works : just copy this source and customize for yourself some variables.
+###How it works : 
 
-## Demo
+just copy this source and customize for yourself some variables.
+
+### Demo:
 
 [link](https://percuciat.adaptiveTabs_ver_1/github/) - tabs
